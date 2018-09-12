@@ -1,5 +1,18 @@
-A python script to automatically send whatsapp messages.
+# LetsAutomateWhatsApp
 
-Any contributions from you guys are welcome. Just fork this repository, make changes in the code and create a pull request, I will merge the changes if it seems interesting. :)
+## What is this?
 
-Do star the repo if you think it worth it.
+Python script to automate sending messages using python from terminal/bash.
+It is used with selenium library and chrome driver.
+
+## Requirements
+1. Selenium 
+2. Chrome Driver
+
+## Installation Instructions: 
+1. To install selenium in your project use this command: pip3 install selenium
+2. To download Chrome Driver go to [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver)
+3. After downloading, extract it in any directory and set the path in the script.py.
+
+## Screenshots: 
+![whatsappautomate](https://user-images.githubusercontent.com/39980643/45422610-59165280-b6ae-11e8-8b5f-b4093c88e3c2.gif)
