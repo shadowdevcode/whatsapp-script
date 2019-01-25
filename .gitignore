@@ -1,0 +1,6 @@
+# Ignore JetBrains folder
+.idea/
+
+# Environments
+.project1
+.venv
